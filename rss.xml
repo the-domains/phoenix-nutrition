@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Phoenix Nutrition]]></title>
         <description><![CDATA[Phoenix Nutrition]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/phoenix-nutrition/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 17:52:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 18:06:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/phoenix-nutrition/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Home page details here...</p>]]></description>
+            <link>https://thegrid.ai/phoenix-nutrition/96171c74-f292-4238-8736-fc53d4b48ad6/index.html</link>
+            <guid isPermaLink="false">96171c74-f292-4238-8736-fc53d4b48ad6</guid>
+            <pubDate>Mon, 15 Feb 2016 18:06:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f07f6ab6-41c8-40a4-b44e-c31d47151a61.jpg">]]></description>
-            <link>undefineda69e82d3-b0a5-473a-a5e3-4778f0cd7794/index.html</link>
+            <link>https://thegrid.ai/phoenix-nutrition/a69e82d3-b0a5-473a-a5e3-4778f0cd7794/index.html</link>
             <guid isPermaLink="false">a69e82d3-b0a5-473a-a5e3-4778f0cd7794</guid>
             <pubDate>Mon, 15 Feb 2016 17:52:07 GMT</pubDate>
         </item>
