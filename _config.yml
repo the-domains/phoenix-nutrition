@@ -2,6 +2,7 @@ name: Phoenix Nutrition
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.8282
+title: Phoenix Nutrition
 cta:
   domain: null
   bucket: null
